@@ -10,22 +10,30 @@ Just some musings on how I'm using my (new) 3D printer
 
 ### Intro  
 
-So I've now got a 3D printer and have been learning how to use FreeCAD, the design tool that you need to "master" in order to get the 3D printer to do anything at all!  
+So I've now got a 3D printer (several years after everyone else) and have been learning how to use FreeCAD, the design tool that you need to "master" in order to get the 3D printer to do anything at all!  
 
 So what have I done so far, and is it worth it for a simple hobbyist Arduinite to buy and use a 3D printer (spoiler alert: a resounding YES!).
 
 ### Software
-
+![image](https://user-images.githubusercontent.com/20911308/233390183-e3884b81-8bef-4b4c-857e-57d0ebc8250d.png)  
 Free, moderately easy to use, great for Arduinites:  
 https://www.freecad.org/  
 
-TinkeCAD, a free, really easy-to-use CAD but has some limitations:  
+---  
+
+![image](https://user-images.githubusercontent.com/20911308/233389924-2dcdeb01-c17e-4b05-bb7b-8ee9eb7005b9.png)  
+TinkerCAD, a free, really easy-to-use CAD but has some limitations for complex designs:  
 https://www.tinkercad.com/  
+
+---  
 
 ### Hardware
 
+![image](https://user-images.githubusercontent.com/20911308/233389370-0532b775-c20e-44f1-9e09-87fc453f881c.png)  
 My Prusa Mini+ 3D printer. Why? Works out of the box (well, after about 1 hour's assembly), well supported, small (180mm max print size):  
 https://www.prusa3d.com/  
+
+---  
 
 ### Other Stuff
 ► List of all my videos
