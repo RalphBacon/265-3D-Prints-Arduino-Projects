@@ -38,6 +38,12 @@ https://www.youtube.com/watch?v=YD0v3AO3Wog
 
 ### Hardware
 
+![image](https://user-images.githubusercontent.com/20911308/233673607-d0734a0a-0d2f-4ed8-bf28-3938c9d69168.png)  
+M3 x 4mm Knurled brass inserts. These are from Amazon, about £9.50 for 120 pieces, lots of different sizes.  
+https://amzn.to/41ubLSP  
+
+---  
+
 ![image](https://user-images.githubusercontent.com/20911308/233389370-0532b775-c20e-44f1-9e09-87fc453f881c.png)  
 My Prusa Mini+ 3D printer. Why? Works out of the box (well, after about 1 hour's assembly), well supported, small (180mm max print size):  
 https://www.prusa3d.com/  
