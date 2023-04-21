@@ -27,6 +27,15 @@ https://www.tinkercad.com/
 
 ---  
 
+### 3D PRINTING LEARNING RESOURCES  
+► MangoJelly by Darren B E Stone (I believe, hard to find his name!)  
+https://www.youtube.com/@MangoJellySolutions  
+
+► Learning with Tech by Irv Shapiro  
+https://www.youtube.com/watch?v=YD0v3AO3Wog  
+
+---  
+
 ### Hardware
 
 ![image](https://user-images.githubusercontent.com/20911308/233389370-0532b775-c20e-44f1-9e09-87fc453f881c.png)  
